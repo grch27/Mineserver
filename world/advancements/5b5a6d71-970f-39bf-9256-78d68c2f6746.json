@@ -1,0 +1,71 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-02-10 21:11:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-02-10 21:11:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-02-10 21:21:19 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-02-10 21:11:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-02-10 21:11:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-02-10 21:11:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-02-10 21:11:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2021-02-10 21:21:19 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-02-10 21:21:09 -0600",
+      "minecraft:birch_forest": "2021-02-10 21:15:05 -0600",
+      "minecraft:deep_lukewarm_ocean": "2021-02-10 21:18:55 -0600",
+      "minecraft:beach": "2021-02-10 21:14:59 -0600",
+      "minecraft:dark_forest": "2021-02-10 21:18:39 -0600",
+      "minecraft:river": "2021-02-10 21:14:55 -0600",
+      "minecraft:lukewarm_ocean": "2021-02-10 21:13:53 -0600",
+      "minecraft:swamp": "2021-02-10 21:09:21 -0600",
+      "minecraft:plains": "2021-02-10 21:20:03 -0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2021-02-10 21:21:19 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
